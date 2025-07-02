@@ -100,7 +100,8 @@ ICONS = {
     'nite,nitecode,nightcode,nc': 'nitecode',
     'p6,pm6,pod6,raku,rakumod,rakudoc,rakutest,nqp,crotmp': 'raku',
     'gml,yy': 'gml',
-    'factor,facts': 'factor'
+    'factor,facts': 'factor',
+    'zig,zon': 'zig'
 }
 
 # Scopes we can/should fallback to
@@ -136,7 +137,8 @@ SCOPES = {
     'nitecode',
     'raku',
     'gml',
-    'factor'
+    'factor',
+    'zig'
 }
 
 

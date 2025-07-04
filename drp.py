@@ -101,7 +101,8 @@ ICONS = {
     'p6,pm6,pod6,raku,rakumod,rakudoc,rakutest,nqp,crotmp': 'raku',
     'gml,yy': 'gml',
     'factor,facts': 'factor',
-    'zig,zon': 'zig'
+    'zig,zon': 'zig',
+    'gd': 'gdscript'
 }
 
 # Scopes we can/should fallback to
@@ -138,7 +139,8 @@ SCOPES = {
     'raku',
     'gml',
     'factor',
-    'zig'
+    'zig',
+    'gdscript'
 }
 
 
